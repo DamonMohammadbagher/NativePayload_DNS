@@ -62,7 +62,12 @@ https://www.linkedin.com/pulse/bypassing-anti-viruses-transfer-backdoor-payloads
 
 Bypassing Anti-viruses with transfer Backdoor Payloads by DNS traffic
 https://www.peerlyst.com/posts/bypassing-anti-viruses-with-transfer-backdoor-payloads-by-dns-traffic-damon-mohammadbagher
+
  
+ Related Tool: 
+ 
+ C# code for Backdoor Payloads transfer by IPv6 Address (AAAA) records and DNS Traffic also Bypassing Anti-viruses 
+ https://github.com/DamonMohammadbagher/NativePayload_IP6DNS
  
  Related link:
  
