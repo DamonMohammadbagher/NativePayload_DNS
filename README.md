@@ -19,7 +19,7 @@ Video Published by Damon Mohammadbagher (bbxc9x00x1f)
 
 Bypassing Anti-Viruses with transfer Backdoor Payloads by DNS traffic
 
-Video 1 :https://youtu.be/M4dbqRWRsUk
+Video 1 : https://youtu.be/M4dbqRWRsUk
 
 Bypassing AVs with NativePayload_DNS and Meterpreter_Payload_Detection
 
