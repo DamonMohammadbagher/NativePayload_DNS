@@ -1,6 +1,6 @@
 # Course : Bypassing Anti Viruses by C#.NET Programming
 
-Part 1 (C#.NET Tricks and Techniques) , Chapter 3 : DATA Transferring / Downloading Method by DNS Traffic (PTR Records)
+Part 2 (Infil/Exfiltration/Transferring Techniques by C#)  , Chapter 3 : DATA Transferring / Downloading Method by DNS Traffic (PTR Records)
 
 eBook : Bypassing Anti Viruses by C#.NET Programming
 
