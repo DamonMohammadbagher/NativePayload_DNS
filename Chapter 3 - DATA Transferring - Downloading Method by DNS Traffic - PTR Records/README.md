@@ -4,7 +4,7 @@ Part 2 (Infil/Exfiltration/Transferring Techniques by C#)  , Chapter 3 : DATA Tr
 
 eBook : Bypassing Anti Viruses by C#.NET Programming
 
-eBook chapter 2 , PDF Download : https://github.com/DamonMohammadbagher/eBook-BypassingAVsByCSharp/tree/master/CH3
+eBook chapter 3 , PDF Download : https://github.com/DamonMohammadbagher/eBook-BypassingAVsByCSharp/tree/master/CH3
 
 Warning :Don't Use "www.virustotal.com" or something like that , Never Ever ;D
 
