@@ -78,6 +78,6 @@ https://www.peerlyst.com/posts/bypassing-anti-viruses-with-transfer-backdoor-pay
  
  https://www.linkedin.com/pulse/bypass-all-anti-viruses-encrypted-payloads-c-damon-mohammadbagher?trk=pulse_spock-articles
 
-
+<p><a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/DamonMohammadbagher/NativePayload_DNS"/></a></p>
  
  
